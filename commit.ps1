@@ -8,4 +8,4 @@ git add -A
 git commit -m $date
 
 # 推送到默认远程分支
-git push
+git push origin master
